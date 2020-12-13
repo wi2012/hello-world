@@ -1,3 +1,3 @@
 # hello-world
-this starts my journey with github.
-by barry on December 13 2020
+this starts barry's journey with github.
+barry finnally decided to join in PingCAP to spend the rest years with this company and to see it go public in say 3 years.
